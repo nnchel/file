@@ -1,0 +1,38 @@
+States
+State,"Population, 2019","Pop. per sq. mi., 2019"
+California,"39,512,223",253.5
+Texas,"28,995,881",111.0
+Florida,"21,477,737",400.3
+"New York","19,453,561",412.8
+Pennsylvania,"12,801,989",286.1
+Illinois,"12,671,821",228.3
+Ohio,"11,689,100",286.1
+Georgia,"10,617,423",184.0
+"North Carolina","10,488,084",215.7
+Michigan,"9,986,857",176.4
+
+Counties
+County,"Population, 2019","Pop. per sq. mi., 2019"
+"Los Angeles County, CA","10,039,107","2,473.5"
+"Cook County, IL","5,150,233","5,450.4"
+"Harris County, TX","4,713,325","2,762.5"
+"Maricopa County, AZ","4,485,414",487.5
+"San Diego County, CA","3,338,330",792.9
+"Orange County, CA","3,175,692","4,005.6"
+"Miami-Dade County, FL","2,716,940","1,430.1"
+"Dallas County, TX","2,635,516","3,021.1"
+"Kings County, NY","2,559,903","36,901.4"
+"Riverside County, CA","2,470,546",342.7
+
+Cities
+"City, ST","Population, 2019","Pop. per sq. mi., 2019"
+"New York city, NY","8,336,817","27,754.2"
+"Los Angeles city, CA","3,979,576","8,486.0"
+"Chicago city, IL","2,693,976","11,848.5"
+"Houston city, TX","2,320,268","3,624.3"
+"Phoenix city, AZ","1,680,992","3,247.2"
+"Philadelphia city, PA","1,584,064","11,796.8"
+"San Antonio city, TX","1,547,253","3,189.5"
+"San Diego city, CA","1,423,851","4,369.3"
+"Dallas city, TX","1,343,573","3,954.8"
+"San Jose city, CA","1,021,795","5,746.6"
